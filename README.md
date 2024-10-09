@@ -29,4 +29,4 @@ O arquivo `cs_balancing.py` contém um sistema de balanceamento entre clientes e
 ## Como testar: 
 1. Execute o comando:
    ```bash
-   python test_cs_balancing
+   python test_cs_balancing.py
